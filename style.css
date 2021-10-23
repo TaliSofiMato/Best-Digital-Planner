@@ -1,0 +1,8 @@
+.page {
+    /* display: inline-block; */
+    border: 1px solid black;
+    height: 500px;
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+}
