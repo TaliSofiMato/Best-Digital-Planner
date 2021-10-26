@@ -6,3 +6,10 @@
     float: left;
     box-sizing: border-box;
 }
+.tabs {
+    border: 1px solid black;
+    height: 150px;  
+    width: 49%;
+    box-sizing: border-box;
+    display: inline-block;
+}
