@@ -22,3 +22,11 @@
     /* display: inline-block; */
     float: right;
 }
+.main {
+    border: 1px solid black;
+    width: 50%;
+    height: 100%;
+}
+.left {
+    float: right;
+}
