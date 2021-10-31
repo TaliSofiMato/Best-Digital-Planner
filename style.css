@@ -9,7 +9,7 @@
 .tabhorizontal {
     border: 1px solid black;
     height: 80px;  
-    width: 710px;
+    width: 90%;
     box-sizing: border-box;
     display: inline-block;
 }
