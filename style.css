@@ -8,11 +8,14 @@
 }
 .tabhorizontal {
     border: 1px solid black;
-    height: 80px;  
+    height: 30px;  
     width: 90%;
     box-sizing: border-box;
-    display: inline-block;
+    display: -webkit-box;
+    -webkit-box-pack: justify;
+    -webkit-box-align: center;
 }
+
 .tabvertical {
     border: 1px solid black;
     width: 10%;
@@ -29,4 +32,8 @@
 }
 .left {
     float: right;
+}
+.H {
+    border: 1px solid black;
+    height: 100%;
 }
