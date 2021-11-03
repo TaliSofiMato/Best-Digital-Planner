@@ -18,10 +18,10 @@
 
 .tabvertical {
     border: 1px solid black;
-    width: 10%;
+    width: 30px;
     height: 500px;
     box-sizing: border-box;
-    float: right;
+    display: inline-block;
 }
 
 .main {
@@ -39,6 +39,12 @@
     width: 80px;
     display: inline-block;
     display: -webkit-box;
+}
+
+.V {
+    border: 1px solid black;
+    height: 80px;
+    width: 100%;
 }
 
 .planner {
