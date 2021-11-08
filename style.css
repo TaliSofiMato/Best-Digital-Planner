@@ -49,3 +49,21 @@
 
 .planner {
 }
+
+.sectionOne{
+    border: 1px solid black;
+    height: 150px;
+    width: 276px;
+}
+
+.sectionTwo{
+    border: 1px solid black;
+    height: 137px;
+    width: 276px;
+}
+
+.sectionThree{
+    border: 1px solid black;
+    height: 205px;
+    width: 276px;
+}
