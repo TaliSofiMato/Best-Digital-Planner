@@ -32,6 +32,9 @@
 .left {
     float: right;
 }
+.right {
+    float: left;
+}
 
 .H {
     border: 1px solid black;
